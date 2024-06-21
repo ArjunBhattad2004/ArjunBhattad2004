@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ArjunBhattad2004
+- 👋 Hi, I’m Arjun Bhattad
 - 👀 I’m interested in working on **Software Development**
 - 🌱 I’m currently learning Javascript, ReactJS for **Web Development**
 - 📫 How to reach me b22ai051@iitj.ac.in
