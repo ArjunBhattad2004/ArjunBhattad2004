@@ -1,4 +1,7 @@
-- 👋 Hi, I’m Arjun Bhattad
+<h1 align="center">Hi 👋, I'm Arjun Bhattad</h1>
+<h3 align="center">A passionate Software Development and Machine learning enthusiast</h3>
+
+
 - 👀 I’m interested in working on **Software Development**
 - 🌱 I’m currently learning Javascript, ReactJS for **Web Development**
 - 📫 How to reach me b22ai051@iitj.ac.in
